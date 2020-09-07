@@ -1,5 +1,8 @@
 body{
 	text-align: center;
 	font-family: "Arial";
-	color : blue;
+	color : red;
+}
+aside{
+	background: blue;
 }

@@ -11,5 +11,20 @@ header{
 	text-align: center;
 	background-color: #f5f5f5;
 	color: #000;
-	
+}
+
+footer{
+	background-color: green;
+	color: #FFF;
+	padding: 20px;
+
+}
+
+footer .redes-sociales ul {
+  list-style-type: none;
+}
+footer .redes-sociales ul li {
+  display: inline;
+  margin-right: 30px;
+>>>>>>> footer
 }
